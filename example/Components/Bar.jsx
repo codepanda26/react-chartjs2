@@ -22,6 +22,6 @@ class Bar extends Component {
       <RC2 data={data} type='bar' />
     );
   }
-};
+}
 
 export default Bar;

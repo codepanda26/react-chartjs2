@@ -34,6 +34,6 @@ class Line extends Component {
       <RC2 data={data} type='line' />
     );
   }
-};
+}
 
 export default Line;

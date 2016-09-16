@@ -34,6 +34,6 @@ class PolarArea extends Component {
       <RC2 data={data} type='polarArea' />
     );
   }
-};
+}
 
 export default PolarArea;
