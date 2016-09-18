@@ -22,12 +22,12 @@ const data = {
   }]
 };
 
-class Bar extends Component {
+class Doughnut extends Component {
   render() {
     return (
       <RC2 data={data} type='doughnut' />
     );
   }
-};
+}
 
-export default Bar;
+export default Doughnut;

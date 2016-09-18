@@ -33,6 +33,6 @@ class Radar extends Component {
       <RC2 data={data} type='radar' />
     );
   }
-};
+}
 
 export default Radar;

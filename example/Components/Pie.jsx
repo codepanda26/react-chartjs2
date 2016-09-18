@@ -28,6 +28,6 @@ class Pie extends Component {
       <RC2 data={data} type='pie' />
     );
   }
-};
+}
 
 export default Pie;

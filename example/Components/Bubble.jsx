@@ -19,12 +19,12 @@ const data = {
   }]
 };
 
-class Bar extends Component {
+class Bubble extends Component {
   render() {
     return (
       <RC2 data={data} type='bubble' />
     );
   }
-};
+}
 
-export default Bar;
+export default Bubble;

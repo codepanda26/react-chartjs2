@@ -48,6 +48,6 @@ class Realtime extends Component {
       <RC2 data={data} type='polarArea' ref='chart' />
     );
   }
-};
+}
 
 export default Realtime;
