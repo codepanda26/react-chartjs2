@@ -1,9 +1,9 @@
-import path from 'path';
-import webpack from 'webpack';
+const path = require('path');
+const webpack = require ('webpack');
 
 module.exports = {
   entry: {
-    app: './example.js'
+    app: './example/example.js'
   },
   output: {
     path: path.resolve(__dirname, 'build'),

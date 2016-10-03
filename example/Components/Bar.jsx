@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import RC2 from 'react-chartjs2';
+import RC2 from '../../lib/index';
 
 const data = {
   labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
