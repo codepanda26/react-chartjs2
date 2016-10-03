@@ -5,6 +5,8 @@
 `npm install react-chartjs2 --save`
 ### Demo
 Live demo: http://topdmc.github.io/react-chartjs2/
+### Run Example in Dev
+`npm run example && open ./example/index.html`
 ### Example Usage
 ```JavaScript
 // using ES6
