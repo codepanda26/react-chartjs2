@@ -55,7 +55,7 @@ class Example extends Component {
       </div>
     );
   }
-};
+}
 
 const rootElement = document.getElementById('root');
 render(<Example />, rootElement);
