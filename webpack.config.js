@@ -6,8 +6,8 @@ module.exports = {
     app: './example/example.js'
   },
   output: {
-    path: path.resolve(__dirname, 'build'),
-    filename: './example.js'
+    path: path.resolve(__dirname, 'example'),
+    filename: './build/example.js'
   },
   resolve: {
     extensions: ['', '.js', '.jsx']
